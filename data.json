@@ -1,0 +1,410 @@
+{
+   "nodes": [
+      {
+         "id": "megan thee stallion",
+         "group": 0
+      },
+      {
+         "id": "jay wheeler",
+         "group": 0
+      },
+      {
+         "id": "belly",
+         "group": 0
+      },
+      {
+         "id": "the weeknd",
+         "group": 1
+      },
+      {
+         "id": "demi lovato",
+         "group": 0
+      },
+      {
+         "id": "justin bieber",
+         "group": 1
+      },
+      {
+         "id": "miley cyrus",
+         "group": 0
+      },
+      {
+         "id": "lil baby",
+         "group": 0
+      },
+      {
+         "id": "prakriti kakar",
+         "group": 0
+      },
+      {
+         "id": "kelly clarkson",
+         "group": 0
+      },
+      {
+         "id": "post malone",
+         "group": 0
+      },
+      {
+         "id": "sukriti kakar",
+         "group": 0
+      },
+      {
+         "id": "elton john",
+         "group": 0
+      },
+      {
+         "id": "sza",
+         "group": 0
+      },
+      {
+         "id": "young thug",
+         "group": 0
+      },
+      {
+         "id": "tokischa",
+         "group": 0
+      },
+      {
+         "id": "kanye west",
+         "group": 0
+      },
+      {
+         "id": "usher",
+         "group": 0
+      },
+      {
+         "id": "ariana grande",
+         "group": 1
+      },
+      {
+         "id": "saweetie",
+         "group": 0
+      },
+      {
+         "id": "don toliver",
+         "group": 0
+      },
+      {
+         "id": "tion wayne",
+         "group": 0
+      },
+      {
+         "id": "sunmi",
+         "group": 0
+      },
+      {
+         "id": "karol g",
+         "group": 0
+      },
+      {
+         "id": "khalid",
+         "group": 0
+      },
+      {
+         "id": "kylie",
+         "group": 0
+      },
+      {
+         "id": "ed sheeran",
+         "group": 1
+      },
+      {
+         "id": "chanmina",
+         "group": 0
+      },
+      {
+         "id": "daniel caesar",
+         "group": 0
+      },
+      {
+         "id": "ludacris",
+         "group": 0
+      },
+      {
+         "id": "stefflon don",
+         "group": 0
+      },
+      {
+         "id": "the kid laroi",
+         "group": 1
+      },
+      {
+         "id": "snoop dogg",
+         "group": 0
+      },
+      {
+         "id": "swedish house mafia",
+         "group": 0
+      },
+      {
+         "id": "jessi",
+         "group": 0
+      },
+      {
+         "id": "jamie",
+         "group": 0
+      },
+      {
+         "id": "anuel aa",
+         "group": 0
+      },
+      {
+         "id": "doja cat",
+         "group": 1
+      },
+      {
+         "id": "giveon",
+         "group": 0
+      },
+      {
+         "id": "starboi3",
+         "group": 0
+      },
+      {
+         "id": "j balvin",
+         "group": 1
+      },
+      {
+         "id": "rosal\u00eda",
+         "group": 0
+      },
+      {
+         "id": "maria becerra",
+         "group": 0
+      },
+      {
+         "id": "dua lipa",
+         "group": 1
+      },
+      {
+         "id": "skrillex",
+         "group": 0
+      },
+      {
+         "id": "central cee",
+         "group": 0
+      }
+   ],
+   "links": [
+      {
+         "source": "ariana grande",
+         "target": "doja cat",
+         "value": 1
+      },
+      {
+         "source": "belly",
+         "target": "the weeknd",
+         "value": 1
+      },
+      {
+         "source": "demi lovato",
+         "target": "ariana grande",
+         "value": 2
+      },
+      {
+         "source": "doja cat",
+         "target": "sza",
+         "value": 1
+      },
+      {
+         "source": "doja cat",
+         "target": "the weeknd",
+         "value": 1
+      },
+      {
+         "source": "dua lipa",
+         "target": "sukriti kakar",
+         "value": 1
+      },
+      {
+         "source": "ed sheeran",
+         "target": "jessi",
+         "value": 1
+      },
+      {
+         "source": "ed sheeran",
+         "target": "tion wayne",
+         "value": 1
+      },
+      {
+         "source": "elton john",
+         "target": "dua lipa",
+         "value": 5
+      },
+      {
+         "source": "j balvin",
+         "target": "jay wheeler",
+         "value": 1
+      },
+      {
+         "source": "j balvin",
+         "target": "khalid",
+         "value": 1
+      },
+      {
+         "source": "j balvin",
+         "target": "maria becerra",
+         "value": 1
+      },
+      {
+         "source": "j balvin",
+         "target": "skrillex",
+         "value": 1
+      },
+      {
+         "source": "j balvin",
+         "target": "tokischa",
+         "value": 1
+      },
+      {
+         "source": "justin bieber",
+         "target": "daniel caesar",
+         "value": 1
+      },
+      {
+         "source": "justin bieber",
+         "target": "ludacris",
+         "value": 1
+      },
+      {
+         "source": "kanye west",
+         "target": "the weeknd",
+         "value": 1
+      },
+      {
+         "source": "karol g",
+         "target": "anuel aa",
+         "value": 1
+      },
+      {
+         "source": "kelly clarkson",
+         "target": "ariana grande",
+         "value": 1
+      },
+      {
+         "source": "kylie",
+         "target": "dua lipa",
+         "value": 1
+      },
+      {
+         "source": "miley cyrus",
+         "target": "dua lipa",
+         "value": 1
+      },
+      {
+         "source": "post malone",
+         "target": "the weeknd",
+         "value": 1
+      },
+      {
+         "source": "rosal\u00eda",
+         "target": "the weeknd",
+         "value": 1
+      },
+      {
+         "source": "saweetie",
+         "target": "doja cat",
+         "value": 2
+      },
+      {
+         "source": "skrillex",
+         "target": "justin bieber",
+         "value": 1
+      },
+      {
+         "source": "starboi3",
+         "target": "doja cat",
+         "value": 1
+      },
+      {
+         "source": "swedish house mafia",
+         "target": "the weeknd",
+         "value": 1
+      },
+      {
+         "source": "the kid laroi",
+         "target": "justin bieber",
+         "value": 2
+      },
+      {
+         "source": "the kid laroi",
+         "target": "miley cyrus",
+         "value": 1
+      },
+      {
+         "source": "the weeknd",
+         "target": "ariana grande",
+         "value": 1
+      },
+      {
+         "source": "ariana grande",
+         "target": "megan thee stallion",
+         "value": 1
+      },
+      {
+         "source": "belly",
+         "target": "young thug",
+         "value": 1
+      },
+      {
+         "source": "dua lipa",
+         "target": "prakriti kakar",
+         "value": 1
+      },
+      {
+         "source": "ed sheeran",
+         "target": "central cee",
+         "value": 1
+      },
+      {
+         "source": "ed sheeran",
+         "target": "sunmi",
+         "value": 1
+      },
+      {
+         "source": "justin bieber",
+         "target": "giveon",
+         "value": 1
+      },
+      {
+         "source": "justin bieber",
+         "target": "usher",
+         "value": 1
+      },
+      {
+         "source": "kanye west",
+         "target": "lil baby",
+         "value": 1
+      },
+      {
+         "source": "karol g",
+         "target": "j balvin",
+         "value": 1
+      },
+      {
+         "source": "saweetie",
+         "target": "stefflon don",
+         "value": 1
+      },
+      {
+         "source": "skrillex",
+         "target": "don toliver",
+         "value": 1
+      },
+      {
+         "source": "justin bieber",
+         "target": "snoop dogg",
+         "value": 1
+      },
+      {
+         "source": "saweetie",
+         "target": "jamie",
+         "value": 1
+      },
+      {
+         "source": "saweetie",
+         "target": "chanmina",
+         "value": 1
+      }
+   ]
+}
